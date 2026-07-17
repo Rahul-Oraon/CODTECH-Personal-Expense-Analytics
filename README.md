@@ -28,20 +28,21 @@ The Personal Expense Analytics Dashboard is an interactive Power BI project desi
 
 ## Dashboard
 <img width="1142" height="801" alt="Personal Expense Dashboard" src="https://github.com/user-attachments/assets/f7013ebc-9460-4368-8f5d-33ce97c3ef8f" />
-### Question KPI 
+
+#### Question KPI 
 - Total Income
 - Total Expense
 - Total Transactions
 - Average Transaction Amount
 - Highest Transaction Amount
 - Lowest Transaction Amount
-### Business Questions
+#### Business Questions
 - What is the total income generated?
 - What is the total expense spent?
 - Category wise Total income generated.
 - Which expense category has the highest spending?
 - Which income source contributes the most income?
-### Interactive Slicers
+#### Interactive Slicers
 - Month
 
 ## Project Insights
